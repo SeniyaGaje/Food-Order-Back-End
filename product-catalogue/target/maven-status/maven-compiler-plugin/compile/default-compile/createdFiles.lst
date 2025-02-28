@@ -1,0 +1,7 @@
+com\example\product\catalogue\Controller\ProductController.class
+com\example\product\catalogue\ProductCatalogueApplication.class
+com\example\product\catalogue\Service\ProductServiceImpl.class
+com\example\product\catalogue\data\Product.class
+com\example\product\catalogue\data\ProductRepository.class
+com\example\product\catalogue\Service\ProductService.class
+com\example\product\catalogue\data\ProductConfig.class
